@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Title</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <h1 class="title">Joseph Awana</h1>
+    <nav>
+        <ul>
+            <li><a href="home.html">Home</a></li>
+            <li><a href="index.html">About</a></li>
+            <li><a href="school.html">School</a></li>
+        </ul>
+    </nav>
+    <h1 class="title">Education Goals</h1> 
+    <ol>
+        <li>Too Pass My HTML5 and CSS Class.</li>
+        <li>Get a great sense of Computer lingo, and knowledge.</li>
+        <li>To get a job in computers to help others.</li>
+    </ol>
+    <h1 class="title">Skills</h1>
+    <ol>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ol>
+    <br />
+</body>
+</html>
